@@ -30,7 +30,7 @@ c_args = [
     ]
 
 c_link_args = [
-    '-mmcu=atmega328pb',
+    '-mmcu=atmega328p',
     '-Wl,--gc-sections',
     '-static',
     '-flto',
