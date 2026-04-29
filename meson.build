@@ -1,5 +1,5 @@
 project('arduino-c-sample', 'c',
-  version : '20260429_v000',
+  version : '20260429_v001',
   default_options : ['buildtype=minsize'])
 
 # Includes and subdirs
